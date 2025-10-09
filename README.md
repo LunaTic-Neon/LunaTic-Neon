@@ -1,4 +1,3 @@
-🎓 **Education**: Currently studying at Dongyang Mirae University
 
 ---
 
