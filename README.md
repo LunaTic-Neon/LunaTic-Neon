@@ -12,4 +12,15 @@
     </a>
 </p>
 
+### 📊 GitHub Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=LunaTic-Neon&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true" alt="Haon's GitHub Stats" />
+</p>
+
+### 🛠️ Tech Stack & Interests
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+</p>
+
 ---
