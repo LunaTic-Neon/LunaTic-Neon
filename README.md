@@ -6,3 +6,14 @@
 초기화 중입니다... 서버를 배포하고 첫 수를 두어주세요!
 
 ---
+<!-- TICTACTOE_START -->
+
+<!-- BOARD:--------- -->
+
+|   |   |   |
+|---|---|---|
+| <a href="https://tic-ebon.vercel.app/api/play?pos=0">⬜</a> | <a href="https://tic-ebon.vercel.app/api/play?pos=1">⬜</a> | <a href="https://tic-ebon.vercel.app/api/play?pos=2">⬜</a> |
+| <a href="https://tic-ebon.vercel.app/api/play?pos=3">⬜</a> | <a href="https://tic-ebon.vercel.app/api/play?pos=4">⬜</a> | <a href="https://tic-ebon.vercel.app/api/play?pos=5">⬜</a> |
+| <a href="https://tic-ebon.vercel.app/api/play?pos=6">⬜</a> | <a href="https://tic-ebon.vercel.app/api/play?pos=7">⬜</a> | <a href="https://tic-ebon.vercel.app/api/play?pos=8">⬜</a> |
+
+<!-- TICTACTOE_END -->undefined
