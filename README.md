@@ -10,10 +10,26 @@
 
 <!-- BOARD:--------- -->
 
-|   |   |   |
-|---|---|---|
-| <a href="https://tic-ebon.vercel.app/api/play?pos=0">⬜</a> | <a href="https://tic-ebon.vercel.app/api/play?pos=1">⬜</a> | <a href="https://tic-ebon.vercel.app/api/play?pos=2">⬜</a> |
-| <a href="https://tic-ebon.vercel.app/api/play?pos=3">⬜</a> | <a href="https://tic-ebon.vercel.app/api/play?pos=4">⬜</a> | <a href="https://tic-ebon.vercel.app/api/play?pos=5">⬜</a> |
-| <a href="https://tic-ebon.vercel.app/api/play?pos=6">⬜</a> | <a href="https://tic-ebon.vercel.app/api/play?pos=7">⬜</a> | <a href="https://tic-ebon.vercel.app/api/play?pos=8">⬜</a> |
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><a href="https://tic-ebon.vercel.app/api/play?pos=0"><img src="https://placehold.co/80x80/22272e/22272e?text=%20" width="80" height="80"></a></td>
+    <td align="center"><a href="https://tic-ebon.vercel.app/api/play?pos=1"><img src="https://placehold.co/80x80/22272e/22272e?text=%20" width="80" height="80"></a></td>
+    <td align="center"><a href="https://tic-ebon.vercel.app/api/play?pos=2"><img src="https://placehold.co/80x80/22272e/22272e?text=%20" width="80" height="80"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://tic-ebon.vercel.app/api/play?pos=3"><img src="https://placehold.co/80x80/22272e/22272e?text=%20" width="80" height="80"></a></td>
+    <td align="center"><a href="https://tic-ebon.vercel.app/api/play?pos=4"><img src="https://placehold.co/80x80/22272e/22272e?text=%20" width="80" height="80"></a></td>
+    <td align="center"><a href="https://tic-ebon.vercel.app/api/play?pos=5"><img src="https://placehold.co/80x80/22272e/22272e?text=%20" width="80" height="80"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://tic-ebon.vercel.app/api/play?pos=6"><img src="https://placehold.co/80x80/22272e/22272e?text=%20" width="80" height="80"></a></td>
+    <td align="center"><a href="https://tic-ebon.vercel.app/api/play?pos=7"><img src="https://placehold.co/80x80/22272e/22272e?text=%20" width="80" height="80"></a></td>
+    <td align="center"><a href="https://tic-ebon.vercel.app/api/play?pos=8"><img src="https://placehold.co/80x80/22272e/22272e?text=%20" width="80" height="80"></a></td>
+  </tr>
+</table>
+
+</div>
 
 <!-- TICTACTOE_END -->undefined
