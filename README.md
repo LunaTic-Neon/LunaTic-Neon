@@ -8,12 +8,15 @@
 ---
 <!-- TICTACTOE_START -->
 
-<!-- BOARD:XOXOO-XXO -->
+<!-- BOARD:XOXOOXXXO -->
 
 |   |   |   |
 |---|---|---|
 | ❌ | ⭕ | ❌ |
-| ⭕ | ⭕ | <a href="https://tic-ebon.vercel.app/api/play?pos=5">⬜</a> |
+| ⭕ | ⭕ | ❌ |
 | ❌ | ❌ | ⭕ |
 
+🤝 **무승부!**
+
+[🔄 게임 초기화](https://tic-ebon.vercel.app/api/play?action=reset)
 <!-- TICTACTOE_END -->undefined
