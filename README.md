@@ -12,7 +12,7 @@
 ---
 <!-- TICTACTOE_START -->
 
-<!-- BOARD:XO-XO-XOX -->
+<!-- BOARD:XO-XOXXOX -->
 
 <div align="center">
 
@@ -25,7 +25,7 @@
   <tr>
     <td align="center"><img src="https://placehold.co/80x80/2d333b/f85149?text=X&font=Montserrat" width="80" height="80"></td>
     <td align="center"><img src="https://placehold.co/80x80/2d333b/58a6ff?text=O&font=Montserrat" width="80" height="80"></td>
-    <td align="center"><img src="https://placehold.co/80x80/22272e/22272e?text=%20" width="80" height="80"></td>
+    <td align="center"><img src="https://placehold.co/80x80/2d333b/f85149?text=X&font=Montserrat" width="80" height="80"></td>
   </tr>
   <tr>
     <td align="center"><img src="https://placehold.co/80x80/2d333b/f85149?text=X&font=Montserrat" width="80" height="80"></td>
