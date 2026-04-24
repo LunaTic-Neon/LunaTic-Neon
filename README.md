@@ -8,15 +8,12 @@
 ---
 <!-- TICTACTOE_START -->
 
-<!-- BOARD:XOXOOXXXO -->
+<!-- BOARD:--------- -->
 
 |   |   |   |
 |---|---|---|
-| ❌ | ⭕ | ❌ |
-| ⭕ | ⭕ | ❌ |
-| ❌ | ❌ | ⭕ |
+| <a href="https://tic-ebon.vercel.app/api/play?pos=0">⬜</a> | <a href="https://tic-ebon.vercel.app/api/play?pos=1">⬜</a> | <a href="https://tic-ebon.vercel.app/api/play?pos=2">⬜</a> |
+| <a href="https://tic-ebon.vercel.app/api/play?pos=3">⬜</a> | <a href="https://tic-ebon.vercel.app/api/play?pos=4">⬜</a> | <a href="https://tic-ebon.vercel.app/api/play?pos=5">⬜</a> |
+| <a href="https://tic-ebon.vercel.app/api/play?pos=6">⬜</a> | <a href="https://tic-ebon.vercel.app/api/play?pos=7">⬜</a> | <a href="https://tic-ebon.vercel.app/api/play?pos=8">⬜</a> |
 
-🤝 **무승부!**
-
-[🔄 게임 초기화](https://tic-ebon.vercel.app/api/play?action=reset)
 <!-- TICTACTOE_END -->undefined
