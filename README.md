@@ -8,12 +8,12 @@
 ---
 <!-- TICTACTOE_START -->
 
-<!-- BOARD:--------- -->
+<!-- BOARD:----O-X-- -->
 
 |   |   |   |
 |---|---|---|
 | <a href="https://tic-ebon.vercel.app/api/play?pos=0">⬜</a> | <a href="https://tic-ebon.vercel.app/api/play?pos=1">⬜</a> | <a href="https://tic-ebon.vercel.app/api/play?pos=2">⬜</a> |
-| <a href="https://tic-ebon.vercel.app/api/play?pos=3">⬜</a> | <a href="https://tic-ebon.vercel.app/api/play?pos=4">⬜</a> | <a href="https://tic-ebon.vercel.app/api/play?pos=5">⬜</a> |
-| <a href="https://tic-ebon.vercel.app/api/play?pos=6">⬜</a> | <a href="https://tic-ebon.vercel.app/api/play?pos=7">⬜</a> | <a href="https://tic-ebon.vercel.app/api/play?pos=8">⬜</a> |
+| <a href="https://tic-ebon.vercel.app/api/play?pos=3">⬜</a> | ⭕ | <a href="https://tic-ebon.vercel.app/api/play?pos=5">⬜</a> |
+| ❌ | <a href="https://tic-ebon.vercel.app/api/play?pos=7">⬜</a> | <a href="https://tic-ebon.vercel.app/api/play?pos=8">⬜</a> |
 
 <!-- TICTACTOE_END -->undefined
