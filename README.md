@@ -8,7 +8,7 @@
 ---
 <!-- TICTACTOE_START -->
 
-<!-- BOARD:OO--X-OXX -->
+<!-- BOARD:OOXOX-OXX -->
 
 <div align="center">
 
@@ -16,12 +16,12 @@
   <tr>
     <td align="center"><img src="https://placehold.co/80x80/2d333b/58a6ff?text=O&font=Montserrat" width="80" height="80"></td>
     <td align="center"><img src="https://placehold.co/80x80/2d333b/58a6ff?text=O&font=Montserrat" width="80" height="80"></td>
-    <td align="center"><a href="https://tic-ebon.vercel.app/api/play?pos=2"><img src="https://placehold.co/80x80/22272e/22272e?text=%20" width="80" height="80"></a></td>
+    <td align="center"><img src="https://placehold.co/80x80/2d333b/f85149?text=X&font=Montserrat" width="80" height="80"></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://tic-ebon.vercel.app/api/play?pos=3"><img src="https://placehold.co/80x80/22272e/22272e?text=%20" width="80" height="80"></a></td>
+    <td align="center"><img src="https://placehold.co/80x80/2d333b/58a6ff?text=O&font=Montserrat" width="80" height="80"></td>
     <td align="center"><img src="https://placehold.co/80x80/2d333b/f85149?text=X&font=Montserrat" width="80" height="80"></td>
-    <td align="center"><a href="https://tic-ebon.vercel.app/api/play?pos=5"><img src="https://placehold.co/80x80/22272e/22272e?text=%20" width="80" height="80"></a></td>
+    <td align="center"><img src="https://placehold.co/80x80/22272e/22272e?text=%20" width="80" height="80"></td>
   </tr>
   <tr>
     <td align="center"><img src="https://placehold.co/80x80/2d333b/58a6ff?text=O&font=Montserrat" width="80" height="80"></td>
@@ -30,6 +30,9 @@
   </tr>
 </table>
 
+<h3>🤖 AI의 승리! (다시 도전해보세요)</h3>
+
+<a href="https://tic-ebon.vercel.app/api/play?action=reset"><img src="https://img.shields.io/badge/-%F0%9F%94%84%20%EA%B2%8C%EC%9E%84%20%EC%B4%88%EA%B8%B0%ED%99%94-2ea043?style=for-the-badge&padding=large"></a>
 </div>
 
 <!-- TICTACTOE_END -->undefined
