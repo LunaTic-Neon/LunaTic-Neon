@@ -2,38 +2,32 @@
 ---
 
 <div align="center">
+  <h2>🎮 틱택토 대결 (AI 봇 방어 중)</h2>
+  
+  <img src="https://tic-ebon.vercel.app/api/render?type=status" alt="Game Status"><br><br>
 
-### 🎮 틱택토 대결 (AI 봇 방어 중)
+  <table>
+    <tr>
+      <td><a href="https://tic-ebon.vercel.app/api/play?pos=0"><img src="https://tic-ebon.vercel.app/api/render?type=cell&pos=0"></a></td>
+      <td><a href="https://tic-ebon.vercel.app/api/play?pos=1"><img src="https://tic-ebon.vercel.app/api/render?type=cell&pos=1"></a></td>
+      <td><a href="https://tic-ebon.vercel.app/api/play?pos=2"><img src="https://tic-ebon.vercel.app/api/render?type=cell&pos=2"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://tic-ebon.vercel.app/api/play?pos=3"><img src="https://tic-ebon.vercel.app/api/render?type=cell&pos=3"></a></td>
+      <td><a href="https://tic-ebon.vercel.app/api/play?pos=4"><img src="https://tic-ebon.vercel.app/api/render?type=cell&pos=4"></a></td>
+      <td><a href="https://tic-ebon.vercel.app/api/play?pos=5"><img src="https://tic-ebon.vercel.app/api/render?type=cell&pos=5"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://tic-ebon.vercel.app/api/play?pos=6"><img src="https://tic-ebon.vercel.app/api/render?type=cell&pos=6"></a></td>
+      <td><a href="https://tic-ebon.vercel.app/api/play?pos=7"><img src="https://tic-ebon.vercel.app/api/render?type=cell&pos=7"></a></td>
+      <td><a href="https://tic-ebon.vercel.app/api/play?pos=8"><img src="https://tic-ebon.vercel.app/api/render?type=cell&pos=8"></a></td>
+    </tr>
+  </table>
+  <br>
 
-빈칸을 클릭해서 AI와 대결 시작
-
+  <a href="https://tic-ebon.vercel.app/api/play?action=reset">
+    <img src="https://img.shields.io/badge/-%F0%9F%94%84%20%EA%B2%8C%EC%9E%84%20%EC%B4%88%EA%B8%B0%ED%99%94-2ea043?style=for-the-badge&padding=large">
+  </a>
 </div>
 
 ---
-<!-- TICTACTOE_START -->
-
-<!-- BOARD:XO-XOXXOX -->
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center"><img src="https://placehold.co/80x80/2d333b/f85149?text=X&font=Montserrat" width="80" height="80"></td>
-    <td align="center"><img src="https://placehold.co/80x80/2d333b/58a6ff?text=O&font=Montserrat" width="80" height="80"></td>
-    <td align="center"><a href="https://tic-ebon.vercel.app/api/play?pos=2"><img src="https://placehold.co/80x80/22272e/22272e?text=%20" width="80" height="80"></a></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://placehold.co/80x80/2d333b/f85149?text=X&font=Montserrat" width="80" height="80"></td>
-    <td align="center"><img src="https://placehold.co/80x80/2d333b/58a6ff?text=O&font=Montserrat" width="80" height="80"></td>
-    <td align="center"><img src="https://placehold.co/80x80/2d333b/f85149?text=X&font=Montserrat" width="80" height="80"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://placehold.co/80x80/2d333b/f85149?text=X&font=Montserrat" width="80" height="80"></td>
-    <td align="center"><img src="https://placehold.co/80x80/2d333b/58a6ff?text=O&font=Montserrat" width="80" height="80"></td>
-    <td align="center"><img src="https://placehold.co/80x80/2d333b/f85149?text=X&font=Montserrat" width="80" height="80"></td>
-  </tr>
-</table>
-
-</div>
-
-<!-- TICTACTOE_END -->
