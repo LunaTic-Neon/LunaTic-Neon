@@ -1,9 +1,13 @@
 
 ---
 
+<div align="center">
+
 ### 🎮 틱택토 대결 (AI 봇 방어 중)
 
 빈칸을 클릭해서 AI와 대결 시작
+
+</div>
 
 ---
 <!-- TICTACTOE_START -->
