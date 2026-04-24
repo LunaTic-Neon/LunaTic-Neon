@@ -12,7 +12,7 @@
 ---
 <!-- TICTACTOE_START -->
 
-<!-- BOARD:--------- -->
+<!-- BOARD:----O---X -->
 
 <div align="center">
 
@@ -24,13 +24,13 @@
   </tr>
   <tr>
     <td align="center"><a href="https://tic-ebon.vercel.app/api/play?pos=3"><img src="https://placehold.co/80x80/22272e/22272e?text=%20" width="80" height="80"></a></td>
-    <td align="center"><a href="https://tic-ebon.vercel.app/api/play?pos=4"><img src="https://placehold.co/80x80/22272e/22272e?text=%20" width="80" height="80"></a></td>
+    <td align="center"><img src="https://placehold.co/80x80/2d333b/58a6ff?text=O&font=Montserrat" width="80" height="80"></td>
     <td align="center"><a href="https://tic-ebon.vercel.app/api/play?pos=5"><img src="https://placehold.co/80x80/22272e/22272e?text=%20" width="80" height="80"></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://tic-ebon.vercel.app/api/play?pos=6"><img src="https://placehold.co/80x80/22272e/22272e?text=%20" width="80" height="80"></a></td>
     <td align="center"><a href="https://tic-ebon.vercel.app/api/play?pos=7"><img src="https://placehold.co/80x80/22272e/22272e?text=%20" width="80" height="80"></a></td>
-    <td align="center"><a href="https://tic-ebon.vercel.app/api/play?pos=8"><img src="https://placehold.co/80x80/22272e/22272e?text=%20" width="80" height="80"></a></td>
+    <td align="center"><img src="https://placehold.co/80x80/2d333b/f85149?text=X&font=Montserrat" width="80" height="80"></td>
   </tr>
 </table>
 
