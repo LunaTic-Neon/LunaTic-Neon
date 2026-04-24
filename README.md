@@ -12,14 +12,14 @@
 ---
 <!-- TICTACTOE_START -->
 
-<!-- BOARD:----O---X -->
+<!-- BOARD:XO--O---X -->
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center"><a href="https://tic-ebon.vercel.app/api/play?pos=0"><img src="https://placehold.co/80x80/22272e/22272e?text=%20" width="80" height="80"></a></td>
-    <td align="center"><a href="https://tic-ebon.vercel.app/api/play?pos=1"><img src="https://placehold.co/80x80/22272e/22272e?text=%20" width="80" height="80"></a></td>
+    <td align="center"><img src="https://placehold.co/80x80/2d333b/f85149?text=X&font=Montserrat" width="80" height="80"></td>
+    <td align="center"><img src="https://placehold.co/80x80/2d333b/58a6ff?text=O&font=Montserrat" width="80" height="80"></td>
     <td align="center"><a href="https://tic-ebon.vercel.app/api/play?pos=2"><img src="https://placehold.co/80x80/22272e/22272e?text=%20" width="80" height="80"></a></td>
   </tr>
   <tr>
