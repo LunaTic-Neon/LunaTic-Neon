@@ -1,33 +1,43 @@
+# 👋 Hi, I'm Neon
 
----  
+### AI Student & Developer
 
-<div align="center">
-  <h2>🎮 틱택토 대결 (AI 봇 방어 중)</h2>
-  
-  <img src="https://tic-ebon.vercel.app/api/render?type=status" alt="Game Status"><br><br>
+AI와 소프트웨어 개발을 공부하며
+**Machine Learning · Deep Learning · Data Analysis · Web · Game Development**에 관심.
 
-  <table>
-    <tr>
-      <td><a href="https://tic-ebon.vercel.app/api/play?pos=0"><img src="https://tic-ebon.vercel.app/api/render?type=cell&pos=0"></a></td>
-      <td><a href="https://tic-ebon.vercel.app/api/play?pos=1"><img src="https://tic-ebon.vercel.app/api/render?type=cell&pos=1"></a></td>
-      <td><a href="https://tic-ebon.vercel.app/api/play?pos=2"><img src="https://tic-ebon.vercel.app/api/render?type=cell&pos=2"></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://tic-ebon.vercel.app/api/play?pos=3"><img src="https://tic-ebon.vercel.app/api/render?type=cell&pos=3"></a></td>
-      <td><a href="https://tic-ebon.vercel.app/api/play?pos=4"><img src="https://tic-ebon.vercel.app/api/render?type=cell&pos=4"></a></td>
-      <td><a href="https://tic-ebon.vercel.app/api/play?pos=5"><img src="https://tic-ebon.vercel.app/api/render?type=cell&pos=5"></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://tic-ebon.vercel.app/api/play?pos=6"><img src="https://tic-ebon.vercel.app/api/render?type=cell&pos=6"></a></td>
-      <td><a href="https://tic-ebon.vercel.app/api/play?pos=7"><img src="https://tic-ebon.vercel.app/api/render?type=cell&pos=7"></a></td>
-      <td><a href="https://tic-ebon.vercel.app/api/play?pos=8"><img src="https://tic-ebon.vercel.app/api/render?type=cell&pos=8"></a></td>
-    </tr>
-  </table>
-  <br>
+## 🚀 Projects
 
-  <a href="https://tic-ebon.vercel.app/api/play?action=reset">
-    <img src="https://img.shields.io/badge/-%F0%9F%94%84%20%EA%B2%8C%EC%9E%84%20%EC%B4%88%EA%B8%B0%ED%99%94-2ea043?style=for-the-badge&padding=large">
-  </a>
-</div>
+### 🎓 AI Project Management Service
 
----
+회의록과 프로젝트 데이터를 AI로 분석하고 대시보드에서 관리하는 웹 졸업작품
+`AI API` `OAuth` `Web`
+
+### 🤖 AI Agent Racing
+
+AI Agent의 학습을 통해 결승선에 빠르게 도달하도록 만드는 머신러닝 프로젝트
+`Python` `Machine Learning`
+
+### 🧠 AI-Generated Image Detection
+
+이미지가 AI에 의해 생성·변형되었는지 판별하는 딥러닝 프로젝트
+`Python` `PyTorch`
+
+### 📊 Data Analysis
+
+공개 데이터를 활용해 한국의 핵잠수함 도입 효과를 분석한 빅데이터 프로젝트
+`Python` `Pandas` `Matplotlib`
+
+### 🎮 Asphodel
+
+SF 세계관 기반 비주얼 노벨 게임 개발 프로젝트
+`Unity` `C#`
+
+## 🛠 Tech Stack
+
+`Python` `Java` `C` `C#`
+`PyTorch` `Pandas` `NumPy`
+`Git` `GitHub` `Unity`
+
+## 📚 Currently Learning
+
+**AI Agents · Computer Vision · Generative AI · Web AI Integration**
