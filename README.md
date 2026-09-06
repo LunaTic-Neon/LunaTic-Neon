@@ -1,45 +1,56 @@
-# 👋 Hi, I'm Neon
+# Hi, I'm Neon.
 
-### AI Student & Developer
+I'm an AI student interested in building things with data, machine learning, and software.
 
-AI와 소프트웨어 개발을 공부하며
-**Machine Learning · Deep Learning · Data Analysis · Web · Game Development**에 관심.
+Currently exploring **AI, web applications, and game development**.
 
-## 🚀 Current Projects
+## Current Projects
 
-### 🎓 AI Project Management Service
+### AI Project Management Service
 
-회의록과 프로젝트 데이터를 AI로 분석하고 대시보드에서 관리하는 웹 졸업작품
-`AI API` `OAuth` `Web`
+A web-based graduation project that uses AI to analyze meeting notes and project data, then organize them through a project management dashboard.
 
-### 🎮 Asphodel
+**Tech:** AI API, OAuth, Web
 
-SF 세계관 기반 비주얼 노벨 게임 개발 프로젝트
-`Unity` `C#`
+### Asphodel
 
-## 📌 Selected Projects
+A story-driven visual novel game set in a science-fiction world.
 
-### 🧠 AI-Generated Image Detection
+Currently working on worldbuilding, scenario design, and game planning, with development planned in Unity.
 
-이미지가 AI에 의해 생성·변형되었는지 판별하는 딥러닝 프로젝트
-`Python` `PyTorch`
+**Tech:** Unity, C#
 
-### 🤖 AI Agent Racing
+## Selected Projects
 
-AI Agent의 학습을 통해 결승선에 빠르게 도달하도록 만드는 머신러닝 프로젝트
-`Python` `Machine Learning`
+### AI-Generated Image Detection
 
-### 📊 Data Analysis
+A deep learning project that predicts whether an image was generated or modified by AI.
 
-공개 데이터를 활용해 한국의 핵잠수함 도입 효과를 분석한 빅데이터 프로젝트
-`Python` `Pandas` `Matplotlib`
+**Tech:** Python, PyTorch
 
-## 🛠 Tech Stack
+### AI Agent Racing
 
-`Python` `Java` `C` `C#`
-`PyTorch` `Pandas` `NumPy`
-`Git` `GitHub` `Unity`
+A machine learning project where AI agents learn to reach the finish line as quickly as possible.
 
-## 📚 Currently Learning
+**Tech:** Python, Machine Learning
 
-**AI Agents · Computer Vision · Generative AI · Web AI Integration**
+### Data Analysis
+
+A data analysis project examining the potential economic and strategic impact of introducing nuclear-powered submarines in South Korea.
+
+**Tech:** Python, Pandas, NumPy, Matplotlib
+
+## Tech Stack
+
+**Languages**
+Python · Java · C · C#
+
+**AI / Data**
+PyTorch · Pandas · NumPy · Matplotlib
+
+**Tools**
+Git · GitHub · Unity
+
+## Currently Learning
+
+Machine Learning · Deep Learning · AI Agents · Computer Vision · Generative AI
