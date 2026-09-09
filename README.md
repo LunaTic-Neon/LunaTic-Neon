@@ -6,7 +6,7 @@ I'm interested in building software with **AI, data, and creative technologies**
 
 `Machine Learning` `Deep Learning` `Data Analysis` `Web` `Unity`
 
----
+--- 
 
 ## Current Projects
 
