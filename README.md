@@ -17,17 +17,6 @@ A web-based graduation project that uses AI to analyze meeting notes and project
 **Tech**
 `AI API` `OAuth` `Web`
 
-### 🎮 Asphodel
-
-A story-driven visual novel game set in a science-fiction world.
-
-Currently working on worldbuilding, scenario design, and game planning, with development planned in Unity.
-
-**Tech**
-`Unity` `C#`
-
----
-
 ## Selected Projects
 
 ### 🧠 AI-Generated Image Detection
